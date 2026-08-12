@@ -1,1 +1,11 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"8.544\"}","timestamp":"2026-08-10T12:25:56.078Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"10.272\"}","timestamp":"2026-08-12T09:42:59.390Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"29.772\"}","timestamp":"2026-08-12T09:45:14.830Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"8.200\"}","timestamp":"2026-08-12T09:46:22.680Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"7.447\"}","timestamp":"2026-08-12T09:49:59.283Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"9.447\"}","timestamp":"2026-08-12T09:50:36.862Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"11.541\"}","timestamp":"2026-08-12T09:55:11.010Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"84.292\"}","timestamp":"2026-08-12T09:59:04.537Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"400\",\"responseTime\":\"78.133\"}","timestamp":"2026-08-12T10:05:10.382Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"6648.677\"}","timestamp":"2026-08-12T10:10:36.482Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"200\",\"responseTime\":\"4961.253\"}","timestamp":"2026-08-12T10:12:36.920Z"}
