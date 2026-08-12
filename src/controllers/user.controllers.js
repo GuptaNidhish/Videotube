@@ -13,8 +13,8 @@ const generateAccessAndRefreshTokens = async (user_id) => {
     if (!user) {
       throw new ApiError(404, "User with this userid does not exists");
     }
-    const accessToken = user.generateAccessToken();
-    const refreshToken = user.generateRefreshToken();
+    const accessToken = user.GenerateAccessToken();
+    const refreshToken = user.GenerateRefreshToken();
     user.refreshToken = refreshToken;
     await user.save({ validateBeforeSave: false });
     return { accessToken, refreshToken };
